@@ -1,0 +1,8 @@
+python==3.8.8
+torch==1.10.0+cu113
+torchvision==0.11.1+cu113
+numpy==1.21.2
+pandas==1.2.4
+scikit-learn==0.24.2
+Pillow==8.2.0
+tqdm==4.61.0
